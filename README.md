@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yoru</h1>
+<h1 align="center">Hi 🤖, I'm Yoru</h1>
 <h3 align="center">I am a Penetration Tester. My goal is through my job and education to learn as much as possible about Security and serve this field as better as I can. With hard work, research and study I want to contribute towards minimizing factors that build up information security crisis, problems and risks.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoruyagami&label=Profile%20views&color=0e75b6&style=flat" alt="yoruyagami" /> </p>
