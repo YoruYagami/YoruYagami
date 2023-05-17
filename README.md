@@ -1,22 +1,40 @@
-<h1 align="center">Hi 👋, I'm Matteo</h1>
-<h3 align="center">I am an Information Security Professional. My goal is through my job and education to learn as much as possible about Security and serve this field as better as I can. With hard work, research and study I want to contribute towards minimizing factors that build up information security crisis, problems and risks.</h3>
+<div align="center">
+    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/Leyxargon_logo.png" alt="Welcome" align="center">
+</div>
+<br>
+<br>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoruyagami&label=Profile%20views&color=0e75b6&style=flat" alt="yoruyagami" /> </p>
+<br>
+    I am an Information Security Professional. My goal is through my job and education to learn as much as possible about Security and serve this field as better as I can. With hard work, research and study I want to contribute towards minimizing factors that build up information security crisis, problems and risks.
+<br>
+<br>
 
-- 🔭 I’m currently working as a Penetration Tester at **CyberTech**
+**About me**
+ - 💼 Penetration Tester
+ - 👨‍💻 write code to automate stuff
 
-- 🌱 I’m currently learning **Penetration Testing** and **Red Team Operations**
+<br>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mralderson" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mralderson" height="30" width="40" /></a>
-</p>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-plain.svg" alt="C" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-plain.svg" alt="C++" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-plain.svg" alt="Python" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-plain.svg" alt="Java" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-plain.svg" alt="NodeJS" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-plain.svg" alt="PostgreSQL" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-plain.svg" alt="MongoDB" width="25"/><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/235_Nvidia_logo-512.png" alt="CUDA" width="25"/><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/matlab/matlab-original.svg" alt="MATLAB" width="25"/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yoruyagami&show_icons=true&locale=en&layout=compact" alt="yoruyagami" /></p>
+<!-- Light Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Leyxargon&hide=javascript&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR#gh-light-mode-only" alt="Leyxargon's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Leyxargon&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats#gh-light-mode-only" alt="Leyxargon's Github stats" />
+</a>
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yoruyagami&show_icons=true&locale=en" alt="yoruyagami" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yoruyagami&" alt="yoruyagami" /></p>
+<!-- Dark Mode -->
+<div align="center"> 
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api/top-langs/?username=Leyxargon&hide=javascript&layout=compact&langs_count=10&hide_border=1&role=OWNER,COLLABORATOR&theme=github_dark#gh-dark-mode-only" alt="Leyxargon's Language stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
+<img height=200 src="https://github-readme-stats-git-master-rstaa-rickstaa.vercel.app/api?username=Leyxargon&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=github_dark#gh-dark-mode-only" alt="Leyxargon's Github stats" />
+</a>
+</div>
