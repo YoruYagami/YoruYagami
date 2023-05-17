@@ -1,13 +1,8 @@
-<div align="center">
-    <img src="https://raw.githubusercontent.com/Leyxargon/Leyxargon/master/img/Leyxargon_logo.png" alt="Welcome" align="center">
-</div>
-<br>
-<br>
+<h1 align="center">Hi 👋, I'm Matteo</h1>
+<h3 align="center">I am an Information Security Professional. My goal is through my job and education to learn as much as possible about Security and serve this field as better as I can. With hard work, research and study I want to contribute towards minimizing factors that build up information security crisis, problems and risks.</h3>
 
-<br>
-    I am an Information Security Professional. My goal is through my job and education to learn as much as possible about Security and serve this field as better as I can. With hard work, research and study I want to contribute towards minimizing factors that build up information security crisis, problems and risks.
-<br>
-<br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yoruyagami&label=Profile%20views&color=0e75b6&style=flat" alt="yoruyagami" /> </p>
+
 
 **About me**
  - 💼 Penetration Tester
