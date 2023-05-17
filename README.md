@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yoruyagami&label=Profile%20views&color=0e75b6&style=flat" alt="yoruyagami" /> </p>
 
-- 🔭 I’m currently working on **CyberTech**
+- 🔭 I’m currently working as a Penetration Tester at **CyberTech**
 
-- 🌱 I’m currently learning **Red Team Operations**
+- 🌱 I’m currently learning **Penetration Testing** and **Red Team Operations**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
