@@ -1,4 +1,4 @@
-## Hey, YoruYagami here! 👋
+## Hey, Yoru here! 👋
 
 ![Yoru's GitHub stats](https://github-readme-stats.vercel.app/api?username=YoruYagami&show_icons=true&theme=tokyonight)
 
