@@ -6,7 +6,7 @@
 ----
 
 <p>
-  As a passionate Red Team Operator, my mission is to enhance digital security. Through rigorous learning and dedicated practice in <strong>Security</strong>, I aim to contribute effectively to reducing information security crises, problems, and risks.
+  I emulate tactics, techniques and procedures (TTPs) used by adversaries to help secure organizations in both the public & private sector.
 </p>
 
 - 🌱 I’m continuously learning cyber security.
